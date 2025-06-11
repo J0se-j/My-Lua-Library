@@ -26,7 +26,7 @@ Add this to your script to load the library:
 ```lua
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/J0se-j/My-Lua-Library/refs/heads/main/Booting-the-library"))()
 ```
-#🧪 Example Script
+# 🧪 Example Script
 ```lua
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/J0se-j/My-Lua-Library/refs/heads/main/Booting-the-library"))()
 
@@ -63,7 +63,7 @@ Section:CreateSlider({
     end
 })
 ```
-#🧰 API Reference
+# 🧰 API Reference
 | Function                         | Description                    |
 | -------------------------------- | ------------------------------ |
 | `Library:Destroy()`              | Destroys the UI completely     |
