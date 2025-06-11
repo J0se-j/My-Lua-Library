@@ -1,2 +1,2 @@
 # My Lua Library
-$ npm install --save @github/clipboard-copy-element
+<pre> ```bash npm install my-library ``` </pre>
