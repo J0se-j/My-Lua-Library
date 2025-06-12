@@ -24,11 +24,11 @@ A sleek, Rayfield-style Roblox UI Library with full mobile support, smooth anima
 Add this to your script to load the library:
 
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/J0se-j/My-Lua-Library/refs/heads/main/Booting-the-library"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/J0se-j/My-Lua-Library/refs/heads/main/Booting-the-library.lua"))()
 ```
 # 🧪 Example Script
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/J0se-j/My-Lua-Library/refs/heads/main/Booting-the-library"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/J0se-j/My-Lua-Library/refs/heads/main/Booting-the-library.lua"))()
 
 local Window = Library:CreateWindow({
     Name = "Amethyst UI Example",
